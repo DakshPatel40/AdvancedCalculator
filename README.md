@@ -1,71 +1,62 @@
- 
 # 🧮 Advanced Calculator App
 
-![Platform](https://img.shields.io/badge/platform-Android-blue)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%F0%9F%92%9A-blue)
-![Kotlin](https://img.shields.io/badge/language-Kotlin-orange)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Android-blue)![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%F0%9F%92%9A-blue)![Kotlin](https://img.shields.io/badge/language-Kotlin-orange)![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
 ---
 
-**Advanced Calculator** is a modern, responsive calculator app built with **Jetpack Compose**. It offers two modes: Basic (portrait) and Scientific (landscape), switching dynamically based on your device orientation. Smooth, responsive UI and powerful calculation capabilities — all in one sleek Android app.
+Developed with *Jetpack Compose, **Advanced Calculator* is a cutting-edge, responsive calculator app. It has two modes that change dynamically according to the orientation of your device: Basic (portrait) and Scientific (landscape). One stylish Android app with strong calculation features and a responsive, fluid user interface.
 
 ---
 
 ## 📱 APK
 
-> Build directly from Android Studio:
->  
-> `Build > Build Bundle(s) / APK(s) > Build APK`
+> Build straight from Android Studio: Build > Build Bundle(s) / APK(s) > Build APK
 
-🗂 **APK Location:**  
-`app/build/outputs/apk/debug/app-debug.apk`
+*APK Location:* app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
-## ⚙️ Features
+## Highlights
 
-- 🧠 Smart layout: Portrait = Basic Calculator, Landscape = Scientific
-- 🧮 Expression parsing via `exp4j` library
-- ✍️ Dynamic text resizing
-- 🔍 Built-in support for:
-  - `±`, `%`, `π`, `e`, `sin`, `cos`, `tan`
-  - `log`, `ln`, `^`, `√`
-- 💥 Graceful error handling (`"Error"` message for invalid expressions)
-- ↩️ Backspace and clear button
-- 📐 Accurate decimal precision formatting
+- Clever arrangement: Landscape = Scientific, Portrait = Simple Calculator
+- Using the exp4j library to parse expressions
+- ✍ Resizing text dynamically
+- 🔍 Integrated support for:
+  - log, ln, ^, √ - %, π, e, sin, {cos`, {tan`
+- 💥 Error handling with grace ("Error" message for invalid expressions) - ↩ The clear button and backspace
+- 📐 Precise formatting of decimals
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack 💻
 
-- **Jetpack Compose** – Declarative UI
-- **Kotlin** – The official Android language
-- **Material 3** – Clean, modern UI
-- **exp4j** – Expression parsing engine
+- *Jetpack Compose* - Declarative User Interface 
+- *Kotlin* - The official Android language 
+- *Material 3* - Simple, contemporary user interface
+- *exp4j* – Expression parsing engine
 
----
+  ---
 
-## ✨ UI Preview
 
-| Basic Mode | Scientific Mode |
+## ✨ UI Preview
+
+| Scientific Mode | Basic Mode | 
 |------------|-----------------|
-| 📱 Portrait | 📱 Landscape   |
-| ✨ Clean & Simple | 🔬 Full Scientific Set |
+| 📱 Landscape | 📱 Portrait |
+|✨ Simple & Clean | 🔬 Complete Scientific Set |
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author
 
-**Daksh Faldu**
+*Faldu Daksh*
 
-- 📧 Email: [dakshfaldu2007@gmail.com](mailto:dakshfaldu2007@gmail.com)
-- 🐙 GitHub: [DakshPatel40](https://github.com/DakshPatel40)
-- 💼 LinkedIn: [Daksh Patel](https://linkedin.com/in/daksh-patel40)
+- 📧 Email: [dakshfaldu2007@gmail.com](email: dakshfaldu2007@gmail.com)
+- 🐙 [DakshPatel40] on GitHub (https://github.com/DakshPatel40)
+- 💼 [Daksh Patel] on LinkedIn (https://linkedin.com/in/daksh-patel40)
 
 ---
 
-> If you're a dev exploring Jetpack Compose, this app is a great example of layout control, dynamic rendering, and state-based UI.  
-> Star ⭐ this repo and feel free to fork, test, or extend it!
+> This application is an excellent illustration of layout control, dynamic rendering, and state-based user interface for developers experimenting with Jetpack Compose. Feel free to fork, test, or expand this repository by giving it a star!
 
 ---
