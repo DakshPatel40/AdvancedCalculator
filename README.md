@@ -51,10 +51,10 @@ Developed with *Jetpack Compose, **Advanced Calculator* is a cutting-edge, respo
 ## 👨‍💻 Author
 
 *Faldu Daksh*
+- 📧 Email: [dakshfaldu2007@gmail.com](email: dakshfaldu2007@gmail.com)
+- 🐙 [DakshPatel40] on GitHub (https://github.com/DakshPatel40)
+- 💼 [Daksh Patel] on LinkedIn (https://linkedin.com/in/daksh-patel40)
 
-- 📧 Email: [dakshfaldu2007@gmail.com](email: dakshfaldu2007@gmail.com)
-- 🐙 [DakshPatel40] on GitHub (https://github.com/DakshPatel40)
-- 💼 [Daksh Patel] on LinkedIn (https://linkedin.com/in/daksh-patel40)
 
 ---
 
