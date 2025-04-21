@@ -38,12 +38,13 @@ Developed with *Jetpack Compose, **Advanced Calculator* is a cutting-edge, respo
   ---
 
 
-## ✨ UI Preview
+## ✨ UI Preview
 
-| Scientific Mode | Basic Mode | 
+| Basic Mode | Scientific Mode |
 |------------|-----------------|
-| 📱 Landscape | 📱 Portrait |
-|✨ Simple & Clean | 🔬 Complete Scientific Set |
+| 📱 Portrait | 📱 Landscape   |
+| ✨ Clean & Simple | 🔬 Full Scientific Set |
+
 
 ---
 
