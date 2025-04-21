@@ -53,8 +53,6 @@
 | 📱 Portrait | 📱 Landscape   |
 | ✨ Clean & Simple | 🔬 Full Scientific Set |
 
-_(You can add screenshots here later if you want.)_
-
 ---
 
 ## 👨‍💻 Author
